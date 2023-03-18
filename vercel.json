@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/chat/:match*",
-      "destination": "https://api.openapi.com/:match*"
+      "destination": "https://api.openai.com/:match*"
     }
   ]
 }
